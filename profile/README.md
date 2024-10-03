@@ -7,5 +7,4 @@ The GitHub organization containing everything for Noel.
 ### Links
 - [Website](https://noelbot.com)
 - [Discord](https://discord.noelbot.com)
-- [Donate](https://donate.noelbot.com)
 - [Invite](https://add.noelbot.com)
